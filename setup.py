@@ -1,3 +1,4 @@
+#setup.py file
 from setuptools import setup, find_packages
 from paperscraper import __version__, __authors__
 
